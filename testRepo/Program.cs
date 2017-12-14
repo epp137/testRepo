@@ -8,6 +8,7 @@ namespace testRepo
 {
     class Program
     {
+        // some description
         static void Main(string[] args)
         {
         }
