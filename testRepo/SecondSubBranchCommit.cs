@@ -9,5 +9,6 @@ namespace testRepo
     class SecondSubBranchCommit
     {
         //some tests
+        //bla123
     }
 }
