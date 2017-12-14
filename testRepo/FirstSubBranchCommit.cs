@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace testRepo
 {
-    class Program
+    class FirstSubBranchCommit
     {
-        // some description
-        static void Main(string[] args)
-        {
-            // final sub branch commit
-        }
     }
 }
