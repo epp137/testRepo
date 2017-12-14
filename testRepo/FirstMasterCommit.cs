@@ -8,5 +8,10 @@ namespace testRepo
 {
     class FirstMasterCommit
     {
+        public FirstMasterCommit()
+        {
+            //some bugfix
+        }
+
     }
 }
